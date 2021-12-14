@@ -1,0 +1,36 @@
+{
+    "files": [
+        {
+            "name": "notes.txt",
+            "extension": ".txt",
+            "url": "/resources/ae42fb2a-1563-4e1b-846e-167e4d5f9212",
+            "modifiedBy": "User 1",
+            "modifiedAt": 1638360000000,
+            "size": 520
+        },
+        {
+            "name": "users.docx",
+            "extension": ".docx",
+            "url": "/resources/e49daf4b-e47d-4ea1-bbd1-6b82a487f1c0",
+            "modifiedBy": "User 2",
+            "modifiedAt": 1638360000000,
+            "size": 1500
+        },
+        {
+            "name": "office.jpeg",
+            "extension": ".jpeg",
+            "url": "/resources/7a10e4ce-b97f-4ea5-acdf-d50356dfc19f",
+            "modifiedBy": "User 1",
+            "modifiedAt": 1638360000000,
+            "size": 2500
+        },
+        {
+            "name": "report.pdf",
+            "extension": ".pdf",
+            "url": "/resources/9b4ad72c-c6ac-4229-a338-01c2a3bc8867",
+            "modifiedBy": "User 1",
+            "modifiedAt": 1638360000000,
+            "size": 300
+        }
+    ]
+}
